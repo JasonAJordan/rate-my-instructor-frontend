@@ -11,4 +11,3 @@ App is modeled with a javascript frontend, ruby on rails backend, and postgreSQL
 Open Your back end in terminal and run "rails db:create", "rails db:migrate", "rails db:seed"
 Then on the front end run a liveServer on the index.html file. 
 
-asdfsdafasfd
